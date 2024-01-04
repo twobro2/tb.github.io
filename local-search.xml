@@ -4,38 +4,6 @@
   
   
   <entry>
-    <title>测试文章</title>
-    <link href="/2024/01/04/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/"/>
-    <url>/2024/01/04/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</url>
-    
-    <content type="html"><![CDATA[<p>这是一篇测试博客，用于测试图片引用</p><img src="/2024/01/04/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/ZY.png" class="" title="图片引用">]]></content>
-    
-    
-    
-    <tags>
-      
-      <tag>ZY</tag>
-      
-    </tags>
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>my new post</title>
-    <link href="/2024/01/04/my-new-post/"/>
-    <url>/2024/01/04/my-new-post/</url>
-    
-    <content type="html"><![CDATA[<p>这是一个全新的开始</p>]]></content>
-    
-    
-    
-  </entry>
-  
-  
-  
-  <entry>
     <title>Hello World</title>
     <link href="/2024/01/03/hello-world/"/>
     <url>/2024/01/03/hello-world/</url>
